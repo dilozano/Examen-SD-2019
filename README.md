@@ -15,5 +15,5 @@ El repositorio contiene:
   * video
 - DOCKER:
   * video
- -HTCONDOR:
+-HTCONDOR:
   * video
